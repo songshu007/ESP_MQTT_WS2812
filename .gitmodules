@@ -1,0 +1,12 @@
+[submodule "Arduino_ESP8266_MQTT/lib/FastLED"]
+	path = Arduino_ESP8266_MQTT/lib/FastLED
+	url = git@github.com:FastLED/FastLED.git
+	branch = master
+[submodule "Arduino_ESP8266_MQTT/lib/arduino-mqtt"]
+	path = Arduino_ESP8266_MQTT/lib/arduino-mqtt
+	url = git@github.com:256dpi/arduino-mqtt.git
+	branch = master
+[submodule "Arduino_ESP8266_MQTT/lib/ArduinoJson"]
+	path = Arduino_ESP8266_MQTT/lib/ArduinoJson
+	url = git@github.com:bblanchon/ArduinoJson.git
+	branch = 6.x
